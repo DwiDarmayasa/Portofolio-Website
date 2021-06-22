@@ -5,7 +5,7 @@
  * ------------------------------------------------------------------- 
  */ 
  function popupsuccess() {
-	 alert("Thank You So Much!!")
+	 alert("Thank You So Much!!", "This site will be refresh")
 	
   }
 
