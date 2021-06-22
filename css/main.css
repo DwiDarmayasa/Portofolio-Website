@@ -440,7 +440,7 @@ img.pull-left {
  *
  * ------------------------------------------------------------------- 
  */
-/* #preloader {
+/*#preloader {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -453,7 +453,7 @@ img.pull-left {
 }
 .no-js #preloader, .oldie #preloader {
 	display: none;
-}
+}*/
 #loader {
 	position: absolute;
 	left: 50%;
