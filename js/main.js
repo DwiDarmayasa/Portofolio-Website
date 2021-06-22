@@ -11,7 +11,7 @@
 
 	/*---------------------------------------------------- */
 	/* Preloader
-	------------------------------------------------------ 
+	------------------------------------------------------ */ 
    $(window).load(function() {
 
       // will first fade out the loading animation 
@@ -22,7 +22,7 @@
 
       });       
 
-  	})*/
+  	})
 
 
   	/*---------------------------------------------------- */
@@ -132,10 +132,7 @@
    	e.preventDefault();
    	$.magnificPopup.close();
    });
-   $(document).on('click', '.popup-modal-contact', function (a) {
-	a.preventDefault(location.href ="#contact");
-	$.magnificPopup.close();
-});
+
 	
 	/*-----------------------------------------------------*/
   	/* Navigation Menu
