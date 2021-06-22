@@ -1086,14 +1086,13 @@ header {
 }
 header .row {
 	position: relative;
-	min-height: 66px;
 }
 header .top-bar {
 	display: block;
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: auto;
 	top: 0;
 }
 header .logo {
@@ -1218,7 +1217,7 @@ header .logo a {
 	font-size: 1.5rem;
 	position: absolute;
 	top: 100%;
-	left: 0;
+	left: 0%;
 }
 
 /* dropdown nav */
@@ -1266,22 +1265,22 @@ header .logo a {
  */
 @media only screen and (max-width:1024px) {
 	header .top-bar {
-		left: 60px;
+		left: 0px;
 	}
 }
 @media only screen and (max-width:768px) {
 	header .top-bar {
-		left: 50px;
+		left: 0px;
 	}
 }
 @media only screen and (max-width:600px) {
 	header .top-bar {
-		left: 35px;
+		left: 0px;
 	}
 }
 @media only screen and (max-width:400px) {
 	header .top-bar {
-		left: 25px;
+		left: 0px;
 	}
 }
 
