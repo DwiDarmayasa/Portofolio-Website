@@ -453,7 +453,7 @@ img.pull-left {
 }
 .no-js #preloader, .oldie #preloader {
 	display: none;
-}*/
+}
 #loader {
 	position: absolute;
 	left: 50%;
@@ -495,7 +495,7 @@ img.pull-left {
 		-webkit-transform: rotate(360deg);
 		transform: rotate(360deg);
 	}
-}
+}*/
 
 /** 
  * ===================================================================
