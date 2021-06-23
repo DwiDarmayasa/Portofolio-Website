@@ -136,6 +136,10 @@
    	e.preventDefault();
    	$.magnificPopup.close();
    });
+   $(document).on('click', '.popup-modal-contact', function (a) {
+	a.preventDefault();
+	$.magnificPopup.close();
+});
 
 	
 	/*-----------------------------------------------------*/
